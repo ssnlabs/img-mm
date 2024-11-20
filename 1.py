@@ -1,3 +1,4 @@
+#1
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -23,6 +24,7 @@ plt.title('Edge Magnitude (Sobel Operator)')
 plt.axis('off')
 plt.show()
 
+#2
 import tensorflow as tf
 import tensorflow_datasets as tfds
 import matplotlib.pyplot as plt

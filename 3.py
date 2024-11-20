@@ -1,3 +1,4 @@
+#1
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -39,6 +40,7 @@ axs[2].axis("off")
 plt.tight_layout()
 plt.show()
 
+#2
 import tensorflow as tf
 import tensorflow_datasets as tfds
 import matplotlib.pyplot as plt
